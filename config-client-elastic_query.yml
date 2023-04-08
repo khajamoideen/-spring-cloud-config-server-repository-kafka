@@ -4,8 +4,7 @@ elastic-query-service:
 
 server:
   port: 8183
-  servlet:
-    context-path: /elastic-query-service
+
 
 spring:
   security:
